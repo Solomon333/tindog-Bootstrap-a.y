@@ -1,6 +1,8 @@
- Bootstrap single page website - 
+- Bootstrap single page website 
 
-Bootstrap grid - responsive design
+- Bootstrap grid 
+
+- Responsive design
 
 
 
