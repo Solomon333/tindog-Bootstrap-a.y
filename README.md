@@ -1,10 +1,10 @@
-tindog-
+Tindog
 
-- Bootstrap single page website 
+- Bootstrap design single page website 
 
-- Bootstrap grid 
+- grid 
 
-- Responsive design
+- Responsive - media query
 
 
 
