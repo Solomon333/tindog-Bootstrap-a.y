@@ -1,7 +1,8 @@
 Tindog
 
 - Bootstrap
-- design single page website  grid 
+- design single page website
+-  grid 
 
 - Responsive
 -  media query
